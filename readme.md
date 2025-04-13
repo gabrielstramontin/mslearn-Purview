@@ -15,5 +15,5 @@ For more information about this Microasoft Applied Skills, please check **[Micro
 - [Label Policies](https://mslearn.cloudguides.com/guides/Create%20labels%20and%20label%20policies%20with%20Microsoft%20Purview%20Information%20Protection)
 - [Auto Labeling Policies](https://mslearn.cloudguides.com/guides/Create%20auto-labeling%20policies%20with%20Microsoft%20Purview%20Information%20Protection)
 - [Data Monitoring](https://mslearn.cloudguides.com/guides/Monitor%20the%20use%20of%20sensitive%20information%20in%20your%20organization%20with%20Microsoft%20Purview%20Information%20Protection)
-- -[Data Loss Prevention](https://mslearn.cloudguides.com/en-us/guides/Apply%20Microsoft%20Endpoint%20DLP%20policies%20to%20devices)
+- [Data Loss Prevention](https://mslearn.cloudguides.com/en-us/guides/Apply%20Microsoft%20Endpoint%20DLP%20policies%20to%20devices)
 
