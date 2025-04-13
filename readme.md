@@ -9,3 +9,8 @@ For more information about this Microasoft Applied Skills, please check **[Micro
 
 ### Prepare for the assessment with Microsoft Learn: 
 **[SC-5003 Learning Path](https://learn.microsoft.com/en-us/training/paths/purview-implement-information-protection-data-loss-prevention/)**
+
+### Microsoft Learn Interactive Guides:
+**[Microsoft Purview Information Protection](https://mslearn.cloudguides.com/guides/Protect%20sensitive%20data%20with%20Microsoft%20Purview%20Information%20Protection)**
+
+**[Microsoft Purview Data Loss Prevention](https://mslearn.cloudguides.com/en-us/guides/Apply%20Microsoft%20Endpoint%20DLP%20policies%20to%20devices)**
